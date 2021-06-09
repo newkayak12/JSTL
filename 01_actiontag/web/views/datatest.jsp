@@ -10,6 +10,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+
+
 	<h2>서블릿에서 보낸 리스트</h2>
 	<h4>${lists }</h4>
 	<h4>${p }</h4>
@@ -34,10 +36,9 @@
 	 
 	 -->
 	 
-	 
-	
- 
  <h2>context값</h2>
  	<h4>${email }</h4>
+ 	
+ 	
 </body>
 </html>
